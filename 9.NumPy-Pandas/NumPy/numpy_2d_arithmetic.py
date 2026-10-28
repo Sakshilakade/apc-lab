@@ -1,0 +1,19 @@
+import numpy as np
+
+a=np.array([[1,2],[3,4]])
+b=np.array([[5,6],[7,8]])
+
+print("Array A:")
+print(a)
+
+print("Array B:")
+print(b)
+
+print("Adiition:")
+print(a+b)
+
+print("Multiplication:")
+print(a*b)
+
+print("Division:")
+print(a/b)
