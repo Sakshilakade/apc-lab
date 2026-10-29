@@ -107,7 +107,7 @@ This repository demonstrates practical implementation of Python programming conc
 
 ## 👩‍💻 Author
 
-**Suhana Shakil Bagwan**
+**Sakshi Sanjay Lakade**
 
 Computer Science Engineering Student
 
